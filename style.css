@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+.carousel-item img{
+    height: 92vh;
+    width: 100%;
+    object-fit: cover;
+}
+.services .row>*{
+    padding-right: 0;
+    padding-left: 0;
+}
+.offer-style{
+    background: #a6dcef;
+}
+footer p{
+    margin: 0;
+    
+}
